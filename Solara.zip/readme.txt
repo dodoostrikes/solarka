@@ -1,0 +1,1 @@
+Run SolaraBootstrapper.exe, will create more files
